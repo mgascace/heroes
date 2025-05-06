@@ -10,3 +10,5 @@ Pueden hacer lo que quieran...
 Detalle de la actualización
 
 ## Actualizado de manera local
+
+## Cambios nuevos desde GitHub
