@@ -12,3 +12,4 @@ Detalle de la actualización
 ## Actualizado de manera local
 
 ## Cambios nuevos desde GitHub
+## Esto son cambios nuevos desde el repositorio local
