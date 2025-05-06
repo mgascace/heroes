@@ -8,3 +8,5 @@ Pueden hacer lo que quieran...
 
 ## Actualziado desde GitHub
 Detalle de la actualización
+
+## Actualizado de manera local
